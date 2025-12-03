@@ -40,3 +40,5 @@ int main() {
 
     printf("Max Subarray = %d\n", maxSub(a, 0, n-1));
 }
+
+correct
